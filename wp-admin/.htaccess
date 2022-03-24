@@ -1,0 +1,5 @@
+AuthName "Admins Only"
+AuthUserFile E:/xampp/htdocs/mywordpress/wp-admin/.htpasswd
+AuthGroupFile /dev/null
+AuthType basic
+require user salmankhan
